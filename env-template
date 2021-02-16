@@ -1,0 +1,5 @@
+<!-- github ignore custom file templates. change name to .env after clone-->
+
+
+SAPPER_APP_API_URL=http://yslbeta.com/article/wp-json
+
